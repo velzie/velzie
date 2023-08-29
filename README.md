@@ -11,7 +11,7 @@ member of mercury workshop
 
 ## things i'm proud of
 
-[**adrift**](https://github.com/MercuryWorkshop/adrift) [ uf ] is a decentralized WebRTC proxy network for evading internet censorship<br/>
+[**adrift**](https://github.com/MercuryWorkshop/adrift) [ s ] is a decentralized WebRTC proxy network for evading internet censorship<br/>
 [**rustic-mountain**](https://github.com/CoolElectronics/rustic-mountain) [ f ] is a 1:1 port of celeste classic to Rust<br/>
 [**RecoMod**](https://github.com/MercuryWorkshop/RecoMod) [ f ] is a chromebook recovery toolkit and patcher<br/>
 [**sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) [ m ] is a (patched) enterprise jailbreak targeting chromebooks<br/>
