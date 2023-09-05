@@ -10,7 +10,9 @@ member of mercury workshop
   <br/>
 
 ## things i'm proud of
+*f - finished, uf - unfinished, m - mature, s - stable*
 
+[**minecraft.sh**](https://github.com/CoolElectronics/minecraft.sh) [ uf ] is a minecarft client/bot library written entirely in pure bash+coreutils<br/>
 [**adrift**](https://github.com/MercuryWorkshop/adrift) [ s ] is a decentralized WebRTC proxy network for evading internet censorship<br/>
 [**rustic-mountain**](https://github.com/CoolElectronics/rustic-mountain) [ f ] is a 1:1 port of celeste classic to Rust<br/>
 [**RecoMod**](https://github.com/MercuryWorkshop/RecoMod) [ f ] is a chromebook recovery toolkit and patcher<br/>
@@ -21,7 +23,6 @@ member of mercury workshop
 [*zsp*](https://github.com/CoolElectronics/zsp) [ uf ] is an interpreted programming language written in rust, and [*fan-z*](https://github.com/CoolElectronics/fan-z) is a fantasy console built off of it<br/>
 [*SpeedupPC*](https://github.com/CoolElectronics/SpeedupPc) [ f ] is a joke program that installs ubuntu from windows automatically
 
-*f - finished, uf - unfinished, m - mature, s - stable*
   <br/>
   <br/>
   <br/>
