@@ -12,7 +12,7 @@ member of mercury workshop
 ## things i'm proud of
 *f - finished, uf - unfinished, m - mature, s - stable*
 
-[**minecraft.sh**](https://github.com/CoolElectronics/minecraft.sh) [ uf ] is a minecarft client/bot library written entirely in pure bash+coreutils<br/>
+[**minecraft.sh**](https://github.com/CoolElectronics/minecraft.sh) [ uf ] is a minecraft client/bot library written entirely in pure bash+coreutils<br/>
 [**adrift**](https://github.com/MercuryWorkshop/adrift) [ s ] is a decentralized WebRTC proxy network for evading internet censorship<br/>
 [**rustic-mountain**](https://github.com/CoolElectronics/rustic-mountain) [ f ] is a 1:1 port of celeste classic to Rust<br/>
 [**RecoMod**](https://github.com/MercuryWorkshop/RecoMod) [ f ] is a chromebook recovery toolkit and patcher<br/>
