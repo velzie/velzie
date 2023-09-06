@@ -20,8 +20,9 @@ member of mercury workshop
 
 ## earlier work (that i'm less proud of)
 
+[*AnuraOS*](https://github.com/MercuryWorkshop/AliceWM) [ m ] is a WebOS / developer environment allowing you to write web and linux apps entirely in the browser offline
 [*zsp*](https://github.com/CoolElectronics/zsp) [ uf ] is an interpreted programming language written in rust, and [*fan-z*](https://github.com/CoolElectronics/fan-z) is a fantasy console built off of it<br/>
-[*SpeedupPC*](https://github.com/CoolElectronics/SpeedupPc) [ f ] is a joke program that installs ubuntu from windows automatically
+[*SpeedupPC*](https://github.com/CoolElectronics/SpeedupPc) [ f ] is a joke program that installs ubuntu from windows automatically<br/>
 
   <br/>
   <br/>
