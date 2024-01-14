@@ -26,6 +26,38 @@ member of mercury workshop
 
   <br/>
   <br/>
+<details>
+  <summary><i><b>complete list of projects i've worked on, in chronological order</b></i></summary>
+  
+## 2024
+
+- QOL contributions to [warfork](https://github.com/TeamForbiddenLLC/warfork-qfusion), a free and open source arena FPS
+- [wsproxy.c](https://github.com/MercuryWorkshop/wsproxy.c), a reasonably fast WebSocket->TCP implementation in c
+- [pm-maestro](https://github.com/CoolElectronics/pm-maestro), a graphical `pm2` replacement written in rust+axum
+## 2023
+- [asm.sh](https://github.com/CoolElectronics/asm.sh), a pure-bash library for embedding portable inline assembly or c inside bash scripts
+- [oauth-proxy-rs-nginx](https://github.com/CoolElectronics/oauth-proxy-rs-nginx), a fast implementation of oauth2-proxy using nginx
+- [bare-server-sh](https://github.com/CoolElectronics/bare-server-sh), an implementation of the TOMPHTTP protocol in pure bash
+- [warhooks](https://github.com/CoolElectronics/warhooks), LD_PRELOAD based cheats for warfork
+- [**minecraft.sh**](https://github.com/CoolElectronics/minecraft.sh), a minecraft client/bot library written entirely in pure bash
+- [AnuraOS](https://github.com/MercuryWorkshop/anuraOS), a WebOS / developer environment allowing you to write web and linux apps entirely in the browser offline
+- [**AliceJS**](https://github.com/MercuryWorkshop/AliceJS), a lightweight reactive javascript framework and JSX rendering library
+- [crumpet](https://github.com/CoolElectronics/crumpet), a tool that lets you manage a chromiumos chroot environment from linux
+- [bare-client-custom](https://github.com/MercuryWorkshop/bare-client-custom), an instrumentation framework for bare-client
+- [**adrift**](https://github.com/MercuryWorkshop/adrift), a fast and modern decentralized web proxy network, utilizing transport over WebRTC
+- [**recomod**](https://github.com/MercuryWorkshop/RecoMod), a ChromeOS recovery image and repair toolkit
+- [**sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer), a (patched) jailbreak for managed chromebooks
+- [fakemurk](https://github.com/MercuryWorkshop/fakemurk), a tool for spoofing various device values on a chromebook
+- [clamide](https://github.com/CoolElectronics/clamide), a ptrace toolkit for messing around with syscalls and processes in linux
+- [tiTTY](https://github.com/CoolElectronics/tiTTY), a highly accurate replacement for browser based linux ssh clients
+- [schoolterm](https://github.com/CoolElectronics/schoolterm), a third-party TUI for schooltool
+- [vapour](https://github.com/CoolElectronics/vapour), an aesthetic frontend for launching steam games
+## 2022/2021
+- [fan-z](https://github.com/CoolElectronics/fan-z), a fantasy console / game engine based on the ZSP language
+- [morespriteshorn](https://github.com/CoolElectronics/morespriteshorn), a maintained fork of the community-made level editor for Celeste Classic romhacks supporting several new features
+- [**zsp**](https://github.com/CoolElectronics/zsp), an interpreted programming language
+- [noita-seed-tool-electron](https://github.com/CoolElectronics/noita-seed-tool-electron), a helper tool for the game noita   
+</details>
   <br/>
   <br/>
 
