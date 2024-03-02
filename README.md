@@ -30,8 +30,12 @@ member of mercury workshop
   <summary><i><b>complete list of projects i've worked on, in chronological order</b></i></summary>
   
 ## 2024
-
-- QOL contributions to [warfork](https://github.com/TeamForbiddenLLC/warfork-qfusion), a free and open source arena FPS
+- [dreamland-router](https://github.com/CoolElectronics/dreamland-router), a routing library for dreamland.js
+- [starland-fe](https://github.com/CoolElectronics/starland-fe), an alternative pleroma frontend written in dreamland.js
+- [adderall](https://github.com/CoolElectronics/adderall), a custom build of firefox with splitscreen and vertical tabs
+- [TabTreeReloaded](https://github.com/CoolElectronics/TabTreeReloaded), a better tree-tabs extension for firefox and chrome
+- [epoxy](https://github.com/MercuryWorkshop/epoxy-tls) an encrypted proxy for browser javascript
+- [**warfork**](https://github.com/TeamForbiddenLLC/warfork-qfusion), a free and open source arena FPS based on quake 2
 - [wsproxy.c](https://github.com/MercuryWorkshop/wsproxy.c), a reasonably fast WebSocket->TCP implementation in c
 - [pm-maestro](https://github.com/CoolElectronics/pm-maestro), a graphical `pm2` replacement written in rust+axum
 ## 2023
@@ -41,7 +45,7 @@ member of mercury workshop
 - [warhooks](https://github.com/CoolElectronics/warhooks), LD_PRELOAD based cheats for warfork
 - [**minecraft.sh**](https://github.com/CoolElectronics/minecraft.sh), a minecraft client/bot library written entirely in pure bash
 - [AnuraOS](https://github.com/MercuryWorkshop/anuraOS), a WebOS / developer environment allowing you to write web and linux apps entirely in the browser offline
-- [**AliceJS**](https://github.com/MercuryWorkshop/AliceJS), a lightweight reactive javascript framework and JSX rendering library
+- [**dreamland.js**](https://github.com/MercuryWorkshop/dreamlandjs), a minimalist JSX javascript framework
 - [crumpet](https://github.com/CoolElectronics/crumpet), a tool that lets you manage a chromiumos chroot environment from linux
 - [bare-client-custom](https://github.com/MercuryWorkshop/bare-client-custom), an instrumentation framework for bare-client
 - [**adrift**](https://github.com/MercuryWorkshop/adrift), a fast and modern decentralized web proxy network, utilizing transport over WebRTC
