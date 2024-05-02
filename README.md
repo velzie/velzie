@@ -9,19 +9,14 @@ member of mercury workshop
   <br/>
   <br/>
 
-## things i'm proud of**
+## things i'm proud of
 
 [**minecraft.sh**](https://github.com/CoolElectronics/minecraft.sh) is a minecraft client/bot library written entirely in pure bash+coreutils<br/>
+[**dreamland.js**](https://github.com/MercuryWorkshop/dreamlandjs) is a minimalist javascript framework for writing simple UI without a build step<br/>
 [**adrift**](https://github.com/MercuryWorkshop/adrift) is a decentralized WebRTC proxy network for evading internet censorship<br/>
 [**rustic-mountain**](https://github.com/CoolElectronics/rustic-mountain) is a 1:1 port of celeste classic to Rust<br/>
 [**RecoMod**](https://github.com/MercuryWorkshop/RecoMod) is a chromebook recovery toolkit and patcher<br/>
 [**sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) is a (patched) enterprise jailbreak targeting chromebooks<br/>
-
-## earlier work (that i'm less proud of)
-
-[*AnuraOS*](https://github.com/MercuryWorkshop/AliceWM) is a WebOS / developer environment allowing you to write web and linux apps entirely in the browser offline<br/>
-[*zsp*](https://github.com/CoolElectronics/zsp) is an interpreted programming language written in rust, and [*fan-z*](https://github.com/CoolElectronics/fan-z) is a fantasy console built off of it<br/>
-[*SpeedupPC*](https://github.com/CoolElectronics/SpeedupPc) is a joke program that installs ubuntu from windows automatically<br/>
 
   <br/>
   <br/>
@@ -78,6 +73,6 @@ member of mercury workshop
    *dissed cord* > [@coolelectronics](https://discord.com/users/696392247205298207) <br/>
    *website* > https://coolelectronics.me <br/>
    *mail* > [me@coolelectronics.me](mailto:me@coolelectronics.me) <br/>
-   *fed verse* > [@coolelectronics@akkoma.mercurywork.shop](https://akkoma.mercurywork.shop/coolelectronics) <br/>
+   *fed verse* > [@ce@grimgreenfo.rest](https://grimgreenfo.rest/ce) <br/>
    *pgp* > https://coolelectronics.me/pgp <br/><br/>
 </details>
