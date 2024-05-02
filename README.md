@@ -1,14 +1,11 @@
-<p align="center">
-  hi! i am coolelectronics<sup>(he/they)</sup>, a programmer who tries to occasionally make games.<br/>
-chromebook, tally hall, and oneshot enthusiast; devout rustacean and neovim user<br/>
-<br/>
-member of mercury workshop
-<p/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-
+hi! i am coolelectronics<sup>(he/they)</sup>, feral programmer, neovim evangelist, and eternally cursed bash wizard<br/>
+i am a member of mercury workshop, a free software group. i worked on sh1mmer.me, warfork, and some miscellaneous projects
+  
+*discord* > [@coolelectronics](https://discord.com/users/696392247205298207) <br/>
+*website* > https://coolelectronics.me <br/>
+*mail* > [me@coolelectronics.me](mailto:me@coolelectronics.me) <br/>
+*fediverse* > [@ce@grimgreenfo.rest](https://grimgreenfo.rest/ce) <br/>
+*pgp* > https://coolelectronics.me/pgp <br/><br/>
 ## things i'm proud of
 
 [**minecraft.sh**](https://github.com/CoolElectronics/minecraft.sh) is a minecraft client/bot library written entirely in pure bash+coreutils<br/>
@@ -18,7 +15,6 @@ member of mercury workshop
 [**RecoMod**](https://github.com/MercuryWorkshop/RecoMod) is a chromebook recovery toolkit and patcher<br/>
 [**sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) is a (patched) enterprise jailbreak targeting chromebooks<br/>
 
-  <br/>
   <br/>
 <details>
   <summary><i><b>complete list of projects i've worked on, in chronological order</b></i></summary>
@@ -56,23 +52,8 @@ member of mercury workshop
 - [**zsp**](https://github.com/CoolElectronics/zsp), an interpreted programming language
 - [noita-seed-tool-electron](https://github.com/CoolElectronics/noita-seed-tool-electron), a helper tool for the game noita   
 </details>
-  <br/>
-  <br/>
 
 
 
 ![](https://raw.githubusercontent.com/coolelectronics/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/coolelectronics/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/coolelectronics/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/coolelectronics/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-
-<details>
-  <summary><i>extra stuff</i></summary>
-  
-   *dissed cord* > [@coolelectronics](https://discord.com/users/696392247205298207) <br/>
-   *website* > https://coolelectronics.me <br/>
-   *mail* > [me@coolelectronics.me](mailto:me@coolelectronics.me) <br/>
-   *fed verse* > [@ce@grimgreenfo.rest](https://grimgreenfo.rest/ce) <br/>
-   *pgp* > https://coolelectronics.me/pgp <br/><br/>
-</details>
