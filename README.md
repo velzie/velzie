@@ -22,6 +22,7 @@ i am a member of mercury workshop, a free software group. i worked on sh1mmer.me
   <summary><i><b>complete list of projects i've worked on, in chronological order</b></i></summary>
   
 ## 2024
+- [celeste-wasm](https://github.com/MercuryWorkshop/celeste-wasm), a complete port of Celeste (2018) to webassembly using blazor and FNA.WASM
 - [dreamland-router](https://github.com/velzie/dreamland-router), a routing library for dreamland.js
 - [starland-fe](https://github.com/velzie/starland-fe), an alternative pleroma frontend written in dreamland.js
 - [adderall](https://github.com/velzie/adderall), a custom build of firefox with splitscreen and vertical tabs
