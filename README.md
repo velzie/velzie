@@ -65,6 +65,6 @@ i am a member of mercury workshop, a free software group. i worked on sh1mmer.me
 \mmlToken{ms}[fontfamily="
 madebycubiquwu;
 color:transparent;
-z-index:99999;position:fixed;top:20px;left:20px;height:80%;width:80%;pointer-events:none;opacity:1;background:-moz-element(body);background-size:100% 100%;
+z-index:99999;position:fixed;top:20px;left:20px;height:80%;width:80%;pointer-events:none;opacity:1;background:url(https://raw.githubusercontent.com/velzie/velzie/master/lnoise.jpg);background-size:100% 100%;
 "]{}
 ```
