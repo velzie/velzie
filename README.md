@@ -62,4 +62,4 @@ i am a member of mercury workshop, a free software group. i worked on sh1mmer.me
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background: url('https://coolelectronics.me/assets/lnoise.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background: url('https://raw.githubusercontent.com/velzie/velzie/master/lnoise.jpg');]{x0000}$}
