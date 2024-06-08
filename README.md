@@ -59,3 +59,7 @@ i am a member of mercury workshop, a free software group. i worked on sh1mmer.me
 
 ![](https://raw.githubusercontent.com/velzie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/velzie/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/velzie/velzie/master/lnoise.jpg');]{x0000}$}
