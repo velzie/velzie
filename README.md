@@ -60,11 +60,3 @@ i am a member of mercury workshop, a free software group. i worked on sh1mmer.me
 ![](https://raw.githubusercontent.com/velzie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/velzie/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-
-```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color:transparent;
-z-index:99999;position:fixed;top:0px;left:0;height:100%;width:100%;pointer-events:none;opacity:0.5;background:url(https://raw.githubusercontent.com/velzie/velzie/master/spinny_cat.gif);
-"]{}
-```
