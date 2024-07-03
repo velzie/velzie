@@ -3,10 +3,6 @@ hello! i am velzie/velzie.d. or coolelectronics if you used to know me
 feral programmer, neovim evangelist, and eternally cursed bash wizard<br/>
 i am a member of mercury workshop, a free software group. i worked on sh1mmer.me, warfork, and some miscellaneous projects
   
-*discord* > [@velzie.d](https://discord.com/users/696392247205298207) <br/>
-*website* > https://coolelectronics.me <br/>
-*mail* > [me@coolelectronics.me](mailto:me@coolelectronics.me) <br/>
-*fediverse* > [@ce@grimgreenfo.rest](https://grimgreenfo.rest/@ce) <br/>
 ## things i'm proud of
 
 [**minecraft.sh**](https://github.com/velzie/minecraft.sh) is a minecraft client/bot library written entirely in pure bash+coreutils<br/>
