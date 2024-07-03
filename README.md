@@ -1,4 +1,4 @@
-hello! i am velzie/velzie.d. or coolelectronics if you used to know me
+hello! i am velzie/velzie.d.
 
 feral programmer, neovim evangelist, and eternally cursed bash wizard<br/>
 i am a member of mercury workshop, a free software group. i worked on sh1mmer.me, warfork, and some miscellaneous projects
