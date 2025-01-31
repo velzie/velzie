@@ -15,7 +15,10 @@ i am a member of mercury workshop, a free software group. i worked on sh1mmer.me
   <br/>
 <details>
   <summary><i><b>complete list of projects i've worked on or helped with, in chronological order</b></i></summary>
-  
+
+## 2025
+- [MonoMod.WASM](https://github.com/r58Playz/MonoMod), a C# modding toolkit, powered by cecil, ported to be compatible with the WASM runtime
+- [wispcraft](https://github.com/MercuryWorkshop/wispcraft), a patcher for eaglercraftx that allows you to join online-mode minecraft servers like Hypixel entirely from the browser, powered by wisp
 ## 2024
 - [cabin](https://github.com/velzie/cabin), a small implementation of the Mastodon/ActivityPub protocol written in c++, designed for small instances
 - [**scramjet**](https://github.com/MercuryWorkshop/scramjet), an experimental interception based web proxy designed to evade internet censorship
