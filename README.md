@@ -14,17 +14,28 @@ i am a member of mercury workshop, a free software group. i worked on sh1mmer.me
 
   <br/>
 <details>
-  <summary><i><b>complete list of projects i've worked on, in chronological order</b></i></summary>
+  <summary><i><b>complete list of projects i've worked on or helped with, in chronological order</b></i></summary>
   
 ## 2024
-- [celeste-wasm](https://github.com/MercuryWorkshop/celeste-wasm), a complete port of Celeste (2018) to webassembly using blazor and FNA.WASM
+- [cabin](https://github.com/velzie/cabin), a small implementation of the Mastodon/ActivityPub protocol written in c++, designed for small instances
+- [**scramjet**](https://github.com/MercuryWorkshop/scramjet), an experimental interception based web proxy designed to evade internet censorship
+- [warmonger](https://github.com/velzie/warmonger), a steam-based masterserver implementation written for the game [**warfork**](https://github.com/TeamForbiddenLLC/warfork-qfusion)
+- [rose-pine-chrome-devtools](https://github.com/velzie/rose-pine-chrome-devtools), a port of the rose pine theme to the chrome devtools
+- [bashtro](https://github.com/velzie/bashtro) a minimalistic static site generator for bash
+- [kiki](https://github.com/velzie/kiki), a super-tiny activitypub compliant microblogging platform, written entirely in bash
+- [**celeste-wasm**](https://github.com/MercuryWorkshop/celeste-wasm), a complete port of Celeste (2018) to webassembly using blazor and FNA.WASM
 - [dreamland-router](https://github.com/velzie/dreamland-router), a routing library for dreamland.js
+- [starkkoma](https://github.com/velzie/starkkoma), a port of akkoma-fe to be compatible with the Sharkey backend
 - [starland-fe](https://github.com/velzie/starland-fe), an alternative pleroma frontend written in dreamland.js
+- [whisper](https://github.com/MercuryWorkshop/whisper), a cross-platform Wisp protocol client that exposes the Wisp connection over a TUN device
 - [adderall](https://github.com/velzie/adderall), a custom build of firefox with splitscreen and vertical tabs
 - [TabTreeReloaded](https://github.com/velzie/TabTreeReloaded), a better tree-tabs extension for firefox and chrome
+- [bare-mux](https://github.com/MercuryWorkshop/bare-mux), a framework for easily constructing web proxies using epoxy or libcurl and Wisp
+- [wisp](https://github.com/MercuryWorkshop/wisp-protocol), an open protocol designed for proxying multiple TCP/UDP sockets over a websocket connection
 - [epoxy](https://github.com/MercuryWorkshop/epoxy-tls) an encrypted proxy for browser javascript
 - [**warfork**](https://github.com/TeamForbiddenLLC/warfork-qfusion), a free and open source arena FPS based on quake 2
 - [wsproxy.c](https://github.com/MercuryWorkshop/wsproxy.c), a reasonably fast WebSocket->TCP implementation in c
+- [dreamland-website](https://github.com/MercuryWorkshop/dreamland-website), a website documenting the [dreamlandjs](https://github.com/MercuryWorkshop/dreamlandjs) web framework
 - [pm-maestro](https://github.com/velzie/pm-maestro), a graphical `pm2` replacement written in rust+axum
 ## 2023
 - [asm.sh](https://github.com/velzie/asm.sh), a pure-bash library for embedding portable inline assembly or c inside bash scripts
