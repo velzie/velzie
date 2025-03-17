@@ -1,16 +1,16 @@
-hello! i am velzie/velzie.d.
+hello! i am velzie.
 
 feral programmer, neovim evangelist, and eternally cursed bash wizard<br/>
 i am a member of mercury workshop, a free software group. i worked on sh1mmer.me, warfork, and some miscellaneous projects
   
 ## things i'm proud of
 
-[**minecraft.sh**](https://github.com/velzie/minecraft.sh) is a minecraft client/bot library written entirely in pure bash+coreutils<br/>
+[**sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) is a (patched) jailbreak for enterprise managed chromebooks<br/>
+[**warfork**](https://github.com/TeamForbiddenLLC/warfork-qfusion) is a free and open source arena FPS based on quake 2<br/>
+[**celeste-wasm**](https://github.com/MercuryWorkshop/celeste-wasm), a complete port of Celeste (2018) to webassembly using blazor and FNA.WASM<br/>
 [**dreamland.js**](https://github.com/MercuryWorkshop/dreamlandjs) is a minimalist javascript framework for writing simple UI without a build step<br/>
-[**adrift**](https://github.com/MercuryWorkshop/adrift) is a decentralized WebRTC proxy network for evading internet censorship<br/>
-[**rustic-mountain**](https://github.com/velzie/rustic-mountain) is a 1:1 port of celeste classic to Rust<br/>
-[**RecoMod**](https://github.com/MercuryWorkshop/RecoMod) is a chromebook recovery toolkit and patcher<br/>
-[**sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) is a (patched) enterprise jailbreak targeting chromebooks<br/>
+[**scramjet**](https://github.com/MercuryWorkshop/scramjet) is an experimental interception-based web proxy designed to evade internet censorship<br/>
+[**AnuraOS**](https://github.com/MercuryWorkshop/anuraOS) is a WebOS / developer environment allowing you to write web and linux apps entirely in the browser offline<br />
 
   <br/>
 <details>
