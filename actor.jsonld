@@ -1,0 +1,63 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1",
+    {
+      "Key": "sec:Key",
+      "manuallyApprovesFollowers": "as:manuallyApprovesFollowers",
+      "sensitive": "as:sensitive",
+      "Hashtag": "as:Hashtag",
+      "quoteUrl": "as:quoteUrl",
+      "fedibird": "http://fedibird.com/ns#",
+      "quoteUri": "fedibird:quoteUri",
+      "toot": "http://joinmastodon.org/ns#",
+      "Emoji": "toot:Emoji",
+      "featured": "toot:featured",
+      "discoverable": "toot:discoverable",
+      "schema": "http://schema.org#",
+      "PropertyValue": "schema:PropertyValue",
+      "value": "schema:value",
+      "misskey": "https://misskey-hub.net/ns#",
+      "_misskey_content": "misskey:_misskey_content",
+      "_misskey_quote": "misskey:_misskey_quote",
+      "_misskey_reaction": "misskey:_misskey_reaction",
+      "_misskey_votes": "misskey:_misskey_votes",
+      "_misskey_summary": "misskey:_misskey_summary",
+      "isCat": "misskey:isCat",
+      "firefish": "https://joinfirefish.org/ns#",
+      "speakAsCat": "firefish:speakAsCat",
+      "sharkey": "https://joinsharkey.org/ns#",
+      "backgroundUrl": "sharkey:backgroundUrl",
+      "listenbrainz": "sharkey:listenbrainz",
+      "vcard": "http://www.w3.org/2006/vcard/ns#",
+      "Bite": "https://ns.mia.jetzt/as#Bite"
+    }
+  ],
+  "type": "Person",
+  "id": "https://velzie.github.io/velzie/actor.jsonld",
+  "inbox": "https://velzie.github.io/velzie/actor.jsonld/inbox",
+  "outbox": "https://velzie.github.io/velzie/actor.jsonld/outbox",
+  "followers": "https://velzie.github.io/velzie/actor.jsonld/followers",
+  "following": "https://velzie.github.io/velzie/actor.jsonld/following",
+  "featured": "https://velzie.github.io/velzie/actor.jsonld/featured",
+  "sharedInbox": "https://velzie.github.io/velzie/actor.jsonld",
+  "endpoints": {
+    "sharedInbox": "https://velzie.github.io/velzie/actor.jsonld"
+  },
+  "isCat": false,
+  "speakAsCat": false,
+  "publicKey": {
+    "id": "https://velzie.github.io/velzie/actor.jsonld#main-key",
+    "owner": "https://velzie.github.io/velzie/actor.jsonld",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Rpeoyt7G52v0lYWa+ah\ntvFSpkX4vN1yy0yCos2m3QUoh78NaGOJfVee2W0KumwALJYKRGACtHeyHLWMCzkx\ndTurGYq+v1e6OBH3ihekhYQq/qqjofNARRYmgxtCa7Ug+LBh9Ucg+vzGzg8jLoQJ\nzHd4YIlx3cAkit1oIc53BEs0gcmpZGyrcchYpisb7RE96j848GXi0xOAftK7et3I\neeYgL2wW1Ix/Kq65gTRnQUmF9YTWrX7yrvVmH8AsF9rdPOKRHRmE9VXsl6ZfRu1A\nq1/n3sMCT4YS74D+sUygSepMGvfLXy/E4I/dssYWojtrB4ajNj/yt4aSNP77mxbv\nCQIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "url": "https://velzie.github.io/velzie/actor.jsonld",
+  "preferredUsername": "actor",
+  "name": "actor",
+  "summary": "meoooow mrrrp mrrp",
+  "discoverable": true,
+  "noindex": true,
+  "attachment": [],
+  "alsoKnownAs": [],
+  "tag": []
+}
